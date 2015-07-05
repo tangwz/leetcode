@@ -1,10 +1,9 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 3/210)
 
 ###LeetCode Algorithm
 
-个人的算法训练，尽量自己完成。
+This is my exercise for Leetcode Algorithm. (progress 3/210)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
