@@ -52,7 +52,7 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | C++ | Medium |
 |44 | [Wildcard Matching](https://leetcode.com/problemset/algorithms/) | C++ | Hard |
 |45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | C++ | Hard |
-|46 | [Permutations](https://leetcode.com/problems/permutations/) | C++ | Medium |
+|46 | [Permutations](https://leetcode.com/problems/permutations/) | [C++](./algorithm/Permutations/Permutations.cpp) | Medium |
 |47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | C++ | Hard |
 |48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | C++ | Medium |
 |49 | [Anagrams](https://leetcode.com/problems/anagrams/) | C++ | Medium |
