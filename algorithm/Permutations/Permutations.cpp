@@ -16,19 +16,22 @@ public:
      *         recovery path;
      *     }
      * }
+     *
+     * 
      */
-    void dfs(int i, vector<int>& nums, vector<vector<int> >& res){
+    vector<vector<int> > res;
+
+    void dfs(int i, vector<int>& nums){
         if(i == nums.size()) res.push_back(nums);
         for(int j = i; j < nums.size(); ++j){
             swap(nums[i],nums[j]);
-            dfs(i + 1, nums, res);
+            dfs(i + 1, nums);
             swap(nums[i],nums[j]);
         }
     }
     
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int> > res;
-        dfs(0, nums, res);
+        dfs(0, nums);
         return res;
     }
 };
