@@ -94,7 +94,7 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | C++ | Hard |
 |86 | [Partition List](https://leetcode.com/problems/partition-list/) | C++ | Medium |
 |87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | C++ | Hard |
-|88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | C++ | Easy |
+|88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | C++(./algorithm/MergeSortedArray/MergeSortedArray.cpp) | Easy |
 |89 | [Gray Code](https://leetcode.com/problems/gray-code/) | C++ | Medium |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | C++ | Hard |
