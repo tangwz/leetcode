@@ -133,7 +133,7 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | C++ | Hard |
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | C++ | Easy |
 |126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | C++ | Hard |
-|127| [Word Ladder](https://leetcode.com/problems/word-ladder/) | [C++](./algorithm/Word%20Ladder/Word%20Ladder.cpp)) | Medium |
+|127| [Word Ladder](https://leetcode.com/problems/word-ladder/) | [C++](./algorithm/Word%20Ladder/Word%20Ladder.cpp) | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
