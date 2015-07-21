@@ -57,8 +57,8 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | C++ | Medium |
 |49 | [Anagrams](https://leetcode.com/problems/anagrams/) | C++ | Medium |
 |50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | C++ | Medium |
-|51 | [N-Queens](https://leetcode.com/problems/n-queens/) | C++ | Hard |
-|52 | [N-Queens II ](https://leetcode.com/problems/n-queens-ii/) | C++ | Hard |
+|51 | [N-Queens](https://leetcode.com/problems/n-queens/) | [C++](./algorithm/N-Queens/N-Queens.cpp) | Hard |
+|52 | [N-Queens II ](https://leetcode.com/problems/n-queens-ii/) | [C++](./algorithm/N-Queens%20II/N-Queens%20II.cpp) | Hard |
 |53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++ | Medium |
 |54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | C++ | Medium |
 |55 | [Jump Game](https://leetcode.com/problems/jump-game/) | C++ | Medium |
