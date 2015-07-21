@@ -1,6 +1,6 @@
 class Solution {
 public:
-	int res = 0;
+    int res = 0;
     std::vector<vector<string> > queens;
 
     void output(int n, std::vector<int> c){
@@ -38,7 +38,8 @@ public:
     	return ok;
 	}
 
-	int search(const int row,int n, std::vector<int>& c){
+	//dfs，一种不算高效的解法
+    int search(const int row,int n, std::vector<int>& c){
     	if(row == n){//终止条件，意味着找到一个可行解
         	++res;
             output(n, c);
