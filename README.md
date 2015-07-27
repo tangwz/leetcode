@@ -27,9 +27,9 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |18 | [4Sum](https://leetcode.com/problems/4sum/) | C++ | Medium |
 |19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | C++ | Easy |
 |20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
-|21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | Easy |
+|21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./algorithm/MergeTwoSortedLists/MergeTwoSortedLists.cpp) | Easy |
 |22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
-|23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | C++ | Hard |
+|23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](/algorithm/Merge-k-Sorted-Lists/Merge-k-Sorted-Lists.cpp) | Hard |
 |24 | [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/) | C++ | Medium |
 |25 | [Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group/) | C++ | Hard |
 |26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | C++ | Easy |
