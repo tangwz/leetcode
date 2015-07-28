@@ -40,7 +40,7 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | C++ | Medium |
 |32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | C++ | Hard |
 |33 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | C++ | Hard |
-|34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | C++ | Medium |
+|34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](/algorithm/Search-for-a-Range/Search-for-a-Rang.cpp) | Medium |
 |35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C++ | Medium |
 |36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | C++ | Easy |
 |37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | C++ | Hard |
