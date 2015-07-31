@@ -26,7 +26,7 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | C++ | Medium |
 |18 | [4Sum](https://leetcode.com/problems/4sum/) | C++ | Medium |
 |19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | C++ | Easy |
-|20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
+|20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./algorithm/Valid%20Parentheses/Valid%20Parentheses.cpp) | Easy |
 |21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./algorithm/MergeTwoSortedLists/MergeTwoSortedLists.cpp) | Easy |
 |22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
 |23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](/algorithm/Merge-k-Sorted-Lists/Merge-k-Sorted-Lists.cpp) | Hard |
@@ -38,9 +38,9 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | C++ | Medium |
 |30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | C++ | Hard |
 |31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | C++ | Medium |
-|32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | C++ | Hard |
+|32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [C++](./algorithm/LongestValidParentheses/LongestValidParentheses.cpp) | Hard |
 |33 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | C++ | Hard |
-|34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](/algorithm/Search-for-a-Range/Search-for-a-Rang.cpp) | Medium |
+|34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | [C++](./algorithm/Search-for-a-Range/Search-for-a-Rang.cpp) | Medium |
 |35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C++ | Medium |
 |36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | C++ | Easy |
 |37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | C++ | Hard |
