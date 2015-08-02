@@ -127,9 +127,9 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 |118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | C++ | Easy |
 |119| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | C++ | Easy |
 |120| [Triangle](https://leetcode.com/problems/triangle/) | C++ | Medium |
-|121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | C++ | Medium |
-|122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | C++ | Medium |
-|123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | C++ | Hard |
+|121| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock/Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) | Medium |
+|122| [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp) | Medium |
+|123| [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [C++](./algorithm/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp) | Hard |
 |124| [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | C++ | Hard |
 |125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | C++ | Easy |
 |126| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | C++ | Hard |
