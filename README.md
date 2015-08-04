@@ -2,9 +2,9 @@ LeetCode
 ========
 
 Catalogue：
- - [LeetCode](#LeetCode Algorithm)
- - [Cracking the Coding Interview](#Cracking the Coding Interview)
- - [Coding Interviews](#Coding Interviews)
+ - [LeetCode](#leetcode-algorithm)
+ - [Cracking the Coding Interview](#cracking-the-coding-interview)
+ - [Coding Interviews](#coding-interviews)
 
 ###LeetCode Algorithm
 
@@ -149,5 +149,9 @@ This is my exercise for Leetcode Algorithm. (progress 3/210)
 Cracking the Coding Interview
 ========
 
+### Cracking the Coding Interview
+
 Coding Interviews
 ========
+
+### Coding Interviews
