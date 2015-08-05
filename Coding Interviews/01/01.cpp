@@ -1,16 +1,16 @@
 class Solution {
 /*
- * ÌøÌ¨½×£º
- * Ò»Ö»ÇàÍÜÒ»´Î¿ÉÒÔÌøÉÏ1¼¶Ì¨½×£¬Ò²¿ÉÒÔÌøÉÏ2¼¶¡£Çó¸ÃÇàÍÜÌøÉÏÒ»¸ön¼¶µÄÌ¨½××Ü¹²ÓÐ¶àÉÙÖÖÌø·¨¡£
+ * è·³å°é˜¶ï¼š
+ * ä¸€åªé’è›™ä¸€æ¬¡å¯ä»¥è·³ä¸Š1çº§å°é˜¶ï¼Œä¹Ÿå¯ä»¥è·³ä¸Š2çº§ã€‚æ±‚è¯¥é’è›™è·³ä¸Šä¸€ä¸ªnçº§çš„å°é˜¶æ€»å…±æœ‰å¤šå°‘ç§è·³æ³•ã€‚
  */
 public:
     int jumpFloor(int number) {
         /*
-		µÝ¹é°æ£º
-		if(number <= 0){
+        é€’å½’ç‰ˆï¼š
+        if(number <= 0){
             return 0;
         }else if(number == 1){
-        	return 1;    
+            return 1;    
         }else if(number == 2){
             return 2;
         }else{
