@@ -25,7 +25,7 @@ public:
         map<RandomListNode*, RandomListNode*> link;
         link[pHead] = pRes;
         
-        // 第一遍next
+        // 第一遍复制next，并将节点存到hash中
         while(pOld){
             pNode->next = new RandomListNode(pOld->label);
             link[pOld] = pNode->next;
@@ -33,6 +33,7 @@ public:
         	pNode = pNode->next;
         }
         
+        // 第二遍复制random
         pOld = pHead;
         pNode = pRes;
         while(pOld){
