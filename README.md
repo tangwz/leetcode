@@ -194,3 +194,4 @@ Coding Interviews
 | [平衡二叉树](./Coding%20Interviews/39/39.cpp) | C++ |
 | [数组中只出现一次的数字](./Coding%20Interviews/40/40.cpp) | C++ |
 | [和为S的连续正数序列](./Coding%20Interviews/41/41.cpp) | C++ |
+| [和为S的两个数字](./Coding%20Interviews/42/42.cpp) | C++ |
