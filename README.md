@@ -3,7 +3,6 @@ LeetCode
 
 Catalogue：
  - [LeetCode](#leetcode-algorithm)
- - [Cracking the Coding Interview](#cracking-the-coding-interview)
  - [Coding Interviews](#coding-interviews)
 
 ###LeetCode Algorithm
