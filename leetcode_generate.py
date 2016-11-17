@@ -93,10 +93,15 @@ class Leetcode(object):
     def write_leetcode_generate(self):
         md = '''# :pencil2: Leetcode Generation.
 Update time:  {tm}
+
 Auto created by [leetcode_generate](https://github.com/tangwz/leetcode)
+
 If you have any question, please give me an [issue]({repo}/issues).
+
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
+
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|'''.format(tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
                                           repo=REPO)

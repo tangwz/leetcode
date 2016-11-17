@@ -1,9 +1,14 @@
 # :pencil2: Leetcode Generation.
-Update time:  2016-11-17 16:10:49
+Update time:  2016-11-17 16:12:25
+
 Auto created by [leetcode_generate](https://github.com/tangwz/leetcode)
+
 If you have any question, please give me an [issue](https://github.com/tangwz/leetcode/issues).
+
 If you are loving solving problems in leetcode, please contact me to enjoy it together!
+
 (Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)||[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
