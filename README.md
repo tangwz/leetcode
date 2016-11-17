@@ -5,9 +5,9 @@ Catalogue：
  - [LeetCode](#leetcode-algorithm)
  - [Coding Interviews](#coding-interviews)
 
-###LeetCode Algorithm
+## LeetCode Algorithm
 
-# :pencil2: Leetcode Generation.
+### :pencil2: Leetcode Generation.
 Update time:  2016-11-17 16:12:25
 
 Auto created by [leetcode_generate](https://github.com/tangwz/leetcode)
@@ -450,7 +450,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 Coding Interviews
 ========
 
-### Coding Interviews
+## Coding Interviews
 | Title | Solution |
 | ----- | -------- |
 | [跳台阶](./Coding%20Interviews/01/01.cpp) | C++ |
