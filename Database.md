@@ -1,5 +1,5 @@
-# :pencil2: Leetcode Generation.
-Update time:  2016-12-05 23:48:22
+# :pencil2: Leetcode Database Generation.
+Update time:  2016-12-05 23:51:58
 
 Auto created by [leetcode_generate](https://github.com/tangwz/leetcode)
 

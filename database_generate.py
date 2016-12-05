@@ -89,7 +89,7 @@ class Leetcode(object):
             yield item
 
     def write_leetcode_generate(self):
-        md = '''# :pencil2: Leetcode Generation.
+        md = '''# :pencil2: Leetcode Database Generation.
 Update time:  {tm}
 
 Auto created by [leetcode_generate](https://github.com/tangwz/leetcode)
