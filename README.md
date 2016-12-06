@@ -457,7 +457,7 @@ Auto created by [leetcode_generate](https://github.com/tangwz/leetcode)
 
 | # | Title | Source Code | Difficulty |
 |:---:|:---:|:---:|:---:|
-|175|[combine-two-tables](https://leetcode.com/problems/combine-two-tables)||Easy|
+|175|[combine-two-tables](https://leetcode.com/problems/combine-two-tables)|[MySQL](https://github.com/tangwz/leetcode/blob/master/leetcode/sql/combine-two-tables.sql)|Easy|
 |176|[second-highest-salary](https://leetcode.com/problems/second-highest-salary)||Easy|
 |177|[nth-highest-salary](https://leetcode.com/problems/nth-highest-salary)||Medium|
 |178|[rank-scores](https://leetcode.com/problems/rank-scores)||Medium|
