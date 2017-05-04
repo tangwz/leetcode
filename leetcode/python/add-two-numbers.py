@@ -6,7 +6,13 @@ class ListNode(object):
         self.val = x
         self.next = None
 
+
+
 class Solution(object):
+    """
+        Time complexity : O(n)
+        Space complexity: O(n)
+    """
     def addTwoNumbers(self, l1, l2):
         """
         :type l1: ListNode

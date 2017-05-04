@@ -1,7 +1,12 @@
 # coding: utf-8
 
 class Solution(object):
-    """ Store the word appeared in a dict.
+    """
+        Store the word appeared in a dict. Then we can know the duplicated char's index.
+        And we can keep the maxiumn length according to the dict.
+
+        Time complexity : O(n)
+        Space complexity: O(n)
     """
     def lengthOfLongestSubstring(self, s):
         """

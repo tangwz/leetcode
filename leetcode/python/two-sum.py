@@ -3,6 +3,7 @@
 class Solution(object):
     """
         Mapping the result of each element to its index.
+
         Time complexity : O(n)
         Space complexity: O(n)
     """
