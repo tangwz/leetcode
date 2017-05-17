@@ -7,7 +7,6 @@ class ListNode(object):
         self.next = None
 
 
-
 class Solution(object):
     """
         Time complexity : O(n)
