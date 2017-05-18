@@ -502,7 +502,7 @@ Coding Interviews
 | 从上往下打印二叉树 | [C++](./Coding%20Interviews/22/22.cpp) |
 | 二叉搜索树的后序遍历序列 | [C++](./Coding%20Interviews/23/23.cpp) |
 | 二叉树中和为某一值的路径 | [C++](./Coding%20Interviews/24/24.cpp) |
-| 复杂链表的复制) | [C++](./Coding%20Interviews/25/25.cpp |
+| 复杂链表的复制 | [C++](./Coding%20Interviews/25/25.cpp) |
 | 二叉搜索树与双向链表 | [C++](./Coding%20Interviews/26/26.cpp) |
 | 字符串的排列 | [C++](./Coding%20Interviews/27/27.cpp) |
 | 数组中出现次数超过一半的数字 | [C++](./Coding%20Interviews/28/28.cpp) |
