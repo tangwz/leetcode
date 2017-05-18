@@ -25,7 +25,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/add-two-numbers.py)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/longest-substring-without-repeating-characters.py)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/median-of-two-sorted-arrays.py)||Hard|
-|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)||[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
+|5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/longest-palindromic-substring.py)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|||Easy|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|||Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Easy|
@@ -478,45 +478,45 @@ Coding Interviews
 ## Coding Interviews
 | Title | Solution |
 | ----- | -------- |
-| [跳台阶](./Coding%20Interviews/01/01.cpp) | C++ |
-| [变态跳台阶](./Coding%20Interviews/02/02.cpp) | C++ |
-| [矩形覆盖](./Coding%20Interviews/03/03.cpp) | C++ |
-| [二维数组中的查找](./Coding%20Interviews/04/04.cpp) | C++ |
-| [替换空格](./Coding%20Interviews/05/05.cpp) | C++ |
-| [从尾到头打印链表](./Coding%20Interviews/06/06.cpp) | C++ |
-| [重建二叉树](./Coding%20Interviews/07/07.cpp) | C++ |
-| [用两个栈实现队列](./Coding%20Interviews/08/08.cpp) | C++ |
-| [旋转数组的最小数字](./Coding%20Interviews/09/09.cpp) | C++ |
-| [斐波那契数列](./Coding%20Interviews/10/10.cpp) | C++ |
-| [二进制中1的个数](./Coding%20Interviews/11/11.cpp) | C++ |
-| [数值的整数次方](./Coding%20Interviews/12/12.cpp) | C++ |
-| [调整数组顺序使奇数位于偶数前面](./Coding%20Interviews/13/13.cpp) | C++ |
-| [链表中倒数第k个结点](./Coding%20Interviews/14/14.cpp) | C++ |
-| [反转链表](./Coding%20Interviews/15/15.cpp) | C++ |
-| [合并两个排序的链表](./Coding%20Interviews/16/16.cpp) | C++ |
-| [树的子结构](./Coding%20Interviews/17/17.cpp) | C++ |
-| [二叉树的镜像](./Coding%20Interviews/18/18.cpp) | C++ |
-| [顺时针打印矩阵](./Coding%20Interviews/19/19.cpp) | C++ |
-| [包含min函数的栈](./Coding%20Interviews/20/20.cpp) | C++ |
-| [栈的压入、弹出序列](./Coding%20Interviews/21/21.cpp) | C++ |
-| [从上往下打印二叉树](./Coding%20Interviews/22/22.cpp) | C++ |
-| [二叉搜索树的后序遍历序列](./Coding%20Interviews/23/23.cpp) | C++ |
-| [二叉树中和为某一值的路径](./Coding%20Interviews/24/24.cpp) | C++ |
-| [复杂链表的复制](./Coding%20Interviews/25/25.cpp) | C++ |
-| [二叉搜索树与双向链表](./Coding%20Interviews/26/26.cpp) | C++ |
-| [字符串的排列](./Coding%20Interviews/27/27.cpp) | C++ |
-| [数组中出现次数超过一半的数字](./Coding%20Interviews/28/28.cpp) | C++ |
-| [最小的K个数](./Coding%20Interviews/29/29.cpp) | C++ |
-| [连续子数组的最大和](./Coding%20Interviews/30/30.cpp) | C++ |
-| [整数中1出现的次数（从1到n整数中1出现的次数）](./Coding%20Interviews/31/31.cpp) | C++ |
-| [把数组排成最小的数](./Coding%20Interviews/32/32.cpp) | C++ |
-| [丑数](./Coding%20Interviews/33/33.cpp) | C++ |
-| [第一个只出现一次的字符](./Coding%20Interviews/34/34.cpp) | C++ |
-| [数组中的逆序对](./Coding%20Interviews/35/35.cpp) | C++ |
-| [两个链表的第一个公共结点](./Coding%20Interviews/36/36.cpp) | C++ |
-| [数字在排序数组中出现的次数](./Coding%20Interviews/37/37.cpp) | C++ |
-| [二叉树的深度](./Coding%20Interviews/38/38.cpp) | C++ |
-| [平衡二叉树](./Coding%20Interviews/39/39.cpp) | C++ |
-| [数组中只出现一次的数字](./Coding%20Interviews/40/40.cpp) | C++ |
-| [和为S的连续正数序列](./Coding%20Interviews/41/41.cpp) | C++ |
-| [和为S的两个数字](./Coding%20Interviews/42/42.cpp) | C++ |
+| 跳台阶 | [C++]((./Coding%20Interviews/01/01.cpp)) |
+| 变态跳台阶 | [C++](./Coding%20Interviews/02/02.cpp) |
+| 矩形覆盖 | [C++](./Coding%20Interviews/03/03.cpp) |
+| 二维数组中的查找 | [C++](./Coding%20Interviews/04/04.cpp) |
+| 替换空格 | [C++](./Coding%20Interviews/05/05.cpp) |
+| 从尾到头打印链表 | [C++](./Coding%20Interviews/06/06.cpp) |
+| 重建二叉树 | [C++](./Coding%20Interviews/07/07.cpp) |
+| 用两个栈实现队列 | [C++](./Coding%20Interviews/08/08.cpp) |
+| 旋转数组的最小数字 | [C++](./Coding%20Interviews/09/09.cpp) |
+| 斐波那契数列 | [C++](./Coding%20Interviews/10/10.cpp) |
+| 二进制中1的个数 | [C++](./Coding%20Interviews/11/11.cpp) |
+| 数值的整数次方 | [C++](./Coding%20Interviews/12/12.cpp) |
+| 调整数组顺序使奇数位于偶数前面 | [C++](./Coding%20Interviews/13/13.cpp) |
+| 链表中倒数第k个结点 | [C++](./Coding%20Interviews/14/14.cpp) |
+| 反转链表 | [C++](./Coding%20Interviews/15/15.cpp) |
+| 合并两个排序的链表 | [C++](./Coding%20Interviews/16/16.cpp) |
+| 树的子结构 | [C++](./Coding%20Interviews/17/17.cpp) |
+| 二叉树的镜像 | [C++](./Coding%20Interviews/18/18.cpp) |
+| 顺时针打印矩阵 | [C++](./Coding%20Interviews/19/19.cpp) |
+| 包含min函数的栈 | [C++](./Coding%20Interviews/20/20.cpp) |
+| 栈的压入、弹出序列 | [C++](./Coding%20Interviews/21/21.cpp) |
+| 从上往下打印二叉树 | [C++](./Coding%20Interviews/22/22.cpp) |
+| 二叉搜索树的后序遍历序列 | [C++](./Coding%20Interviews/23/23.cpp) |
+| 二叉树中和为某一值的路径 | [C++](./Coding%20Interviews/24/24.cpp) |
+| 复杂链表的复制) | [C++](./Coding%20Interviews/25/25.cpp |
+| 二叉搜索树与双向链表 | [C++](./Coding%20Interviews/26/26.cpp) |
+| 字符串的排列 | [C++](./Coding%20Interviews/27/27.cpp) |
+| 数组中出现次数超过一半的数字 | [C++](./Coding%20Interviews/28/28.cpp) |
+| 最小的K个数 | [C++](./Coding%20Interviews/29/29.cpp) |
+| 连续子数组的最大和 | [C++](./Coding%20Interviews/30/30.cpp) |
+| 整数中1出现的次数（从1到n整数中1出现的次数） | [C++](./Coding%20Interviews/31/31.cpp) |
+| 把数组排成最小的数 | [C++](./Coding%20Interviews/32/32.cpp) |
+| 丑数 | [C++](./Coding%20Interviews/33/33.cpp) |
+| 第一个只出现一次的字符 | [C++](./Coding%20Interviews/34/34.cpp) |
+| 数组中的逆序对 | [C++](./Coding%20Interviews/35/35.cpp) |
+| 两个链表的第一个公共结点 | [C++](./Coding%20Interviews/36/36.cpp) |
+| 数字在排序数组中出现的次数 | [C++](./Coding%20Interviews/37/37.cpp) |
+| 二叉树的深度 | [C++](./Coding%20Interviews/38/38.cpp) |
+| 平衡二叉树 | [C++](./Coding%20Interviews/39/39.cpp) |
+| 数组中只出现一次的数字 | [C++](./Coding%20Interviews/40/40.cpp) |
+| 和为S的连续正数序列 | [C++](./Coding%20Interviews/41/41.cpp) |
+| 和为S的两个数字 | [C++](./Coding%20Interviews/42/42.cpp) |
