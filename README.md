@@ -28,7 +28,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/longest-palindromic-substring.py)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/zigzag-conversion.py)||Easy|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/reverse-integer.py)||Easy|
-|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|||Easy|
+|8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/string-to-integer-atoi.py)||Easy|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|||Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
