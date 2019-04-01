@@ -8,6 +8,7 @@ USERNAME = ''
 PASSWORD = ''
 REPO = 'https://github.com/tangwz/leetcode'
 
+
 class QuizItem(object):
     def __init__(self, data):
         self.id = int(data['id'])
@@ -42,7 +43,7 @@ class Leetcode(object):
 
         self._session.get(login_url)
         token = self._session.cookies['csrftoken']
-        print 'token: ', token
+        print('token: ', token)
         login_data = {
             'csrfmiddlewaretoken': token,
             'login': USERNAME,
@@ -76,13 +77,14 @@ class Leetcode(object):
         for quiz in json_data['stat_status_pairs']:
             if quiz['stat']['question__hide']:
                 continue
-            data = {}
+            data = dict()
             data['title'] = quiz['stat']['question__title_slug']
             data['id'] = quiz['stat']['question_id']
-            data['lock'] = not json_data['is_paid'] and quiz['paid_only']
+            data['lock'] = quiz['paid_only']
             data['difficulty'] = difficulty[quiz['difficulty']['level']]
             data['favorite'] = quiz['is_favor']
-            data['acceptance'] = "%.1f%%" % (float(quiz['stat']['total_acs']) * 100 / float(quiz['stat']['total_submitted']))
+            data['acceptance'] = "%.1f%%" % (
+                        float(quiz['stat']['total_acs']) * 100 / float(quiz['stat']['total_submitted']))
             data['url'] = '{base}/problems/{title}'.format(base=self._base_url,
                                                            title=quiz['stat']['question__title_slug'])
             data['pass'] = quiz['status']
@@ -118,7 +120,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 
             md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(id=item.id, title=item.title,
                                                                                        url=item.url, language=language,
-                                                                                       article=article, difficulty=item.difficulty)
+                                                                                       article=article,
+                                                                                       difficulty=item.difficulty)
         with open('Leetcode.md', 'w') as f:
             f.write(md)
 
@@ -127,6 +130,7 @@ def main():
     leetcode = Leetcode()
     leetcode.load()
     leetcode.write_leetcode_generate()
+
 
 if __name__ == '__main__':
     main()
