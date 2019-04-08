@@ -217,7 +217,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
 |211|[add-and-search-word-data-structure-design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|||Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|||Hard|
-|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
+|213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/house-robber-ii.py.py)||Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)||[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
