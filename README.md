@@ -82,7 +82,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
-|62|[unique-paths](https://leetcode.com/problems/unique-paths)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python/unique-paths.py)||Medium|
+|62|[unique-paths](https://leetcode.com/problems/unique-paths)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/unique-paths.py)||Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
@@ -621,7 +621,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |667|[beautiful-arrangement-ii](https://leetcode.com/problems/beautiful-arrangement-ii)||[:memo:](https://leetcode.com/articles/beautiful-arrangement-ii/)|Medium|
 |668|[kth-smallest-number-in-multiplication-table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)||[:memo:](https://leetcode.com/articles/kth-smallest-number-in-multiplication-table/)|Hard|
 |669|[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/trim-a-binary-search-tree/)|Easy|
-|670|[maximum-swap](https://leetcode.com/problems/maximum-swap)||[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
+|670|[maximum-swap](https://leetcode.com/problems/maximum-swap)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/palindrome-number.py)|[:memo:](https://leetcode.com/articles/maximum-swap/)|Medium|
 |671|[second-minimum-node-in-a-binary-tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
 |672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
 |673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|
