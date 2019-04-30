@@ -142,7 +142,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
-|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
+|122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock-ii.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|||Easy|
@@ -156,7 +156,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |133|[clone-graph](https://leetcode.com/problems/clone-graph)|||Medium|
 |134|[gas-station](https://leetcode.com/problems/gas-station)||[:memo:](https://leetcode.com/articles/gas-station/)|Medium|
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
-|136|[single-number](https://leetcode.com/problems/single-number)||[:memo:](https://leetcode.com/articles/single-number/)|Easy|
+|136|[single-number](https://leetcode.com/problems/single-number)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/single-number.py)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
@@ -199,7 +199,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:||Medium|
 |187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|||Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||Hard|
-|189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
+|189|[rotate-array](https://leetcode.com/problems/rotate-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/rotate-array.py)|[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits)||[:memo:](https://leetcode.com/articles/number-1-bits/)|Easy|
 |198|[house-robber](https://leetcode.com/problems/house-robber)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/house-robber.py)|[:memo:](https://leetcode.com/articles/house-robber/)|Easy|
@@ -221,7 +221,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
 |215|[kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/kth-largest-element-in-an-array.py)|[:memo:](https://leetcode.com/articles/kth-largest-element-in-an-array/)|Medium|
 |216|[combination-sum-iii](https://leetcode.com/problems/combination-sum-iii)|||Medium|
-|217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)||[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
+|217|[contains-duplicate](https://leetcode.com/problems/contains-duplicate)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/contains-duplicate.py)|[:memo:](https://leetcode.com/articles/contains-duplicate/)|Easy|
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem)|||Hard|
 |219|[contains-duplicate-ii](https://leetcode.com/problems/contains-duplicate-ii)||[:memo:](https://leetcode.com/articles/contains-duplicate-ii/)|Easy|
 |220|[contains-duplicate-iii](https://leetcode.com/problems/contains-duplicate-iii)||[:memo:](https://leetcode.com/articles/contains-duplicate-iii/)|Medium|
