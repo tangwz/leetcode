@@ -31,7 +31,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/string-to-integer-atoi.py)||Easy|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/palindrome-number.py)||Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
-|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)||[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
+|11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/container-with-most-water.py)|[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)||[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
@@ -353,7 +353,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
-|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|||Easy|
+|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/intersection-of-two-arrays-ii.py)||Easy|
 |351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
 |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
 |353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:||Medium|
