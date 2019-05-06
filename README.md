@@ -27,7 +27,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/median-of-two-sorted-arrays.py)||Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/longest-palindromic-substring.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-palindromic-substring.py)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/zigzag-conversion.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/zig-zag-conversion.py)||Easy|
-|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/reverse-integer.py)  [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-integer.py)||Easy|
+|7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/reverse-integer.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-integer.py)||Easy|
 |8|[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/string-to-integer-atoi.py)||Easy|
 |9|[palindrome-number](https://leetcode.com/problems/palindrome-number)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/palindrome-number.py)||Easy|
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
@@ -86,7 +86,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
-|66|[plus-one](https://leetcode.com/problems/plus-one)|||Easy|
+|66|[plus-one](https://leetcode.com/problems/plus-one)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/plus-one.py)||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
@@ -286,7 +286,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |280|[wiggle-sort](https://leetcode.com/problems/wiggle-sort)|:lock:|[:memo:](https://leetcode.com/articles/wiggle-sort/)|Medium|
 |281|[zigzag-iterator](https://leetcode.com/problems/zigzag-iterator)|:lock:||Medium|
 |282|[expression-add-operators](https://leetcode.com/problems/expression-add-operators)||[:memo:](https://leetcode.com/articles/expression-add-operators/)|Hard|
-|283|[move-zeroes](https://leetcode.com/problems/move-zeroes)||[:memo:](https://leetcode.com/articles/move-zeroes/)|Easy|
+|283|[move-zeroes](https://leetcode.com/problems/move-zeroes)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/move-zeroes.py)|[:memo:](https://leetcode.com/articles/move-zeroes/)|Easy|
 |284|[peeking-iterator](https://leetcode.com/problems/peeking-iterator)|||Medium|
 |285|[inorder-successor-in-bst](https://leetcode.com/problems/inorder-successor-in-bst)|:lock:||Medium|
 |286|[walls-and-gates](https://leetcode.com/problems/walls-and-gates)|:lock:|[:memo:](https://leetcode.com/articles/walls-and-gates/)|Medium|
