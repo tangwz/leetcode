@@ -141,9 +141,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
 |119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
 |120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
-|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)||[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
+|121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock-ii.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
-|123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||Hard|
+|123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock-iii.py)||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-palindrome.py)||Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
