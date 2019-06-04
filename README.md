@@ -41,7 +41,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-nth-node-from-end-of-list.py)|[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)||[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
-|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/merge-two-sorted-lists.py)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
+|21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)||[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)||[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|||Medium|
@@ -238,7 +238,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)|||Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
-|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|||Easy|
+|234|[palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/palindrome-linked-list.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)||Easy|
 |235|[lowest-common-ancestor-of-a-binary-search-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-search-tree/)|Easy|
 |236|[lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)||[:memo:](https://leetcode.com/articles/lowest-common-ancestor-of-a-binary-tree/)|Medium|
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/delete-node-in-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
