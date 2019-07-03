@@ -90,7 +90,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|||Easy|
-|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)||[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
+|70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
 |71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)||[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
@@ -997,7 +997,7 @@ Coding Interviews
 ## Coding Interviews
 | Title | Solution |
 | ----- | -------- |
-| 跳台阶 | [C++]((./Coding%20Interviews/01/01.cpp)) |
+| 跳台阶 | [C++](./Coding%20Interviews/01/01.cpp) |
 | 变态跳台阶 | [C++](./Coding%20Interviews/02/02.cpp) |
 | 矩形覆盖 | [C++](./Coding%20Interviews/03/03.cpp) |
 | 二维数组中的查找 | [C++](./Coding%20Interviews/04/04.cpp) |
