@@ -387,7 +387,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |381|[insert-delete-getrandom-o1-duplicates-allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|||Hard|
 |382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)|||Medium|
 |383|[ransom-note](https://leetcode.com/problems/ransom-note)|||Easy|
-|384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
+|384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/shuffle-an-array.py)|[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
 |386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
 |387|[first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/first-unique-character-in-a-string.py)|[:memo:](https://leetcode.com/articles/first-unique-character-in-a-string/)|Easy|
