@@ -175,7 +175,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|||Medium|
 |153|[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)||[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array/)|Medium|
 |154|[find-minimum-in-rotated-sorted-array-ii](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)|||Hard|
-|155|[min-stack](https://leetcode.com/problems/min-stack)|||Easy|
+|155|[min-stack](https://leetcode.com/problems/min-stack)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/min-stack.py)||Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
 |157|[read-n-characters-given-read4](https://leetcode.com/problems/read-n-characters-given-read4)|:lock:||Easy|
 |158|[read-n-characters-given-read4-ii-call-multiple-times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times)|:lock:||Hard|
@@ -208,7 +208,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|||Easy|
 |203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|||Easy|
-|204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
+|204|[count-primes](https://leetcode.com/problems/count-primes)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/count-primes.py)||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|||Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-linked-list.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
 |207|[course-schedule](https://leetcode.com/problems/course-schedule)|||Medium|
@@ -415,7 +415,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)||[:memo:](https://leetcode.com/articles/longest-palindrome/)|Easy|
 |410|[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum)||[:memo:](https://leetcode.com/articles/split-array-largest-sum/)|Hard|
 |411|[minimum-unique-word-abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation)|:lock:||Hard|
-|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)||[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
+|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/fizz-buzz.py)|[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
 |413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
 |414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|||Easy|
 |415|[add-strings](https://leetcode.com/problems/add-strings)|||Easy|
