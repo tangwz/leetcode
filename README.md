@@ -33,7 +33,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |10|[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching)|||Hard|
 |11|[container-with-most-water](https://leetcode.com/problems/container-with-most-water)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/container-with-most-water.py)|[:memo:](https://leetcode.com/articles/container-most-water/)|Medium|
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
-|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|||Easy|
+|13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/roman-to-integer.py)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-common-prefix.py)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
@@ -329,7 +329,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |323|[number-of-connected-components-in-an-undirected-graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)|:lock:||Medium|
 |324|[wiggle-sort-ii](https://leetcode.com/problems/wiggle-sort-ii)|||Medium|
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)|:lock:||Medium|
-|326|[power-of-three](https://leetcode.com/problems/power-of-three)||[:memo:](https://leetcode.com/articles/power-of-three/)|Easy|
+|326|[power-of-three](https://leetcode.com/problems/power-of-three)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/power-of-three.py)|[:memo:](https://leetcode.com/articles/power-of-three/)|Easy|
 |327|[count-of-range-sum](https://leetcode.com/problems/count-of-range-sum)|||Hard|
 |328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)||[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
 |329|[longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)||[:memo:](https://leetcode.com/articles/longest-increasing-path-matrix/)|Hard|
