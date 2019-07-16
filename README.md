@@ -35,7 +35,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |12|[integer-to-roman](https://leetcode.com/problems/integer-to-roman)|||Medium|
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/roman-to-integer.py)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-common-prefix.py)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
-|15|[3sum](https://leetcode.com/problems/3sum)|||Medium|
+|15|[3sum](https://leetcode.com/problems/3sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/3sum.py)||Medium|
 |16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)||[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
 |18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
