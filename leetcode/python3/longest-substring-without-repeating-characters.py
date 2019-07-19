@@ -3,59 +3,23 @@
 #
 # [3] Longest Substring Without Repeating Characters
 #
-# https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
-#
-# algorithms
-# Medium (28.21%)
-# Total Accepted:    881.2K
-# Total Submissions: 3.1M
-# Testcase Example:  '"abcabcbb"'
-#
-# Given a string, find the length of the longest substring without repeating
-# characters.
-# 
-# 
-# Example 1:
-# 
-# 
-# Input: "abcabcbb"
-# Output: 3 
-# Explanation: The answer is "abc", with the length of 3. 
-# 
-# 
-# 
-# Example 2:
-# 
-# 
-# Input: "bbbbb"
-# Output: 1
-# Explanation: The answer is "b", with the length of 1.
-# 
-# 
-# 
-# Example 3:
-# 
-# 
-# Input: "pwwkew"
-# Output: 3
-# Explanation: The answer is "wke", with the length of 3. 
-# ⁠            Note that the answer must be a substring, "pwke" is a
-# subsequence and not a substring.
-# 
-# 
-# 
-# 
-#
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        d = dict()
-        maxlen = start = 0
+        # store the character we have already seen it.
+        used = {}
+        # start: start of the substring index
+        start = maxlen = 0
         for i, c in enumerate(s):
-            index = d.get(c, None)
-            if index is not None and start <= index:
-                start = index + 1
+            # if it's there and the start index is <= that index
+            if c in used and start <= used[c]:
+                # update the start to the last seen duplicate's index + 1
+                start = used[c] + 1
             else:
+                # if it's not in the used map, we can calculate the 
+                # longest substring seen so far. Just take the current
+                # index minus start index.
                 maxlen = max(maxlen, i-start+1)
-            d[c] = i
+            used[c] = i
         return maxlen
+
 
