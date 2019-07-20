@@ -337,7 +337,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)|||Medium|
 |332|[reconstruct-itinerary](https://leetcode.com/problems/reconstruct-itinerary)|||Medium|
 |333|[largest-bst-subtree](https://leetcode.com/problems/largest-bst-subtree)|:lock:||Medium|
-|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|||Medium|
+|334|[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/increasing-triplet-subsequence.py)||Medium|
 |335|[self-crossing](https://leetcode.com/problems/self-crossing)|||Hard|
 |336|[palindrome-pairs](https://leetcode.com/problems/palindrome-pairs)|||Hard|
 |337|[house-robber-iii](https://leetcode.com/problems/house-robber-iii)|||Medium|
