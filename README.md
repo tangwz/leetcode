@@ -331,7 +331,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |325|[maximum-size-subarray-sum-equals-k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k)|:lock:||Medium|
 |326|[power-of-three](https://leetcode.com/problems/power-of-three)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/power-of-three.py)|[:memo:](https://leetcode.com/articles/power-of-three/)|Easy|
 |327|[count-of-range-sum](https://leetcode.com/problems/count-of-range-sum)|||Hard|
-|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)||[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
+|328|[odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/odd-even-linked-list.py)|[:memo:](https://leetcode.com/articles/odd-even-linked-list/)|Medium|
 |329|[longest-increasing-path-in-a-matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix)||[:memo:](https://leetcode.com/articles/longest-increasing-path-matrix/)|Hard|
 |330|[patching-array](https://leetcode.com/problems/patching-array)||[:memo:](https://leetcode.com/articles/patching-array/)|Hard|
 |331|[verify-preorder-serialization-of-a-binary-tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)|||Medium|
