@@ -95,7 +95,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)||[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/set-matrix-zeroes.py)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
-|75|[sort-colors](https://leetcode.com/problems/sort-colors)|||Medium|
+|75|[sort-colors](https://leetcode.com/problems/sort-colors)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/sort-colors.py)||Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)||[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/subsets.py)||Medium|
@@ -350,7 +350,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-string.py)||Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
 |346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:||Easy|
-|347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)||[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
+|347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/top-k-frequent-elements.py)|[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)||[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
 |350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/intersection-of-two-arrays-ii.py)||Easy|
