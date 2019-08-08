@@ -53,7 +53,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)||[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
-|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)||[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
+|33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/search-in-rotated-sorted-array.py)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/find-first-and-last-position-of-element-in-sorted-array.py)|[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
 |35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-sudoku.py)|[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
@@ -244,7 +244,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |237|[delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/delete-node-in-a-linked-list.py)|[:memo:](https://leetcode.com/articles/delete-node-linked-list/)|Easy|
 |238|[product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)|||Medium|
 |239|[sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum)||[:memo:](https://leetcode.com/articles/sliding-window-maximum/)|Hard|
-|240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)||[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
+|240|[search-a-2d-matrix-ii](https://leetcode.com/problems/search-a-2d-matrix-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/search-a-2d-matrix-ii.py)|[:memo:](https://leetcode.com/articles/search-a-2d-matrix-ii/)|Medium|
 |241|[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|||Medium|
 |242|[valid-anagram](https://leetcode.com/problems/valid-anagram)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-anagram.py)|[:memo:](https://leetcode.com/articles/valid-anagram/)|Easy|
 |243|[shortest-word-distance](https://leetcode.com/problems/shortest-word-distance)|:lock:|[:memo:](https://leetcode.com/articles/shortest-word-distance/)|Easy|
