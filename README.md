@@ -36,11 +36,11 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |13|[roman-to-integer](https://leetcode.com/problems/roman-to-integer)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/roman-to-integer.py)||Easy|
 |14|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-common-prefix.py)|[:memo:](https://leetcode.com/articles/longest-common-prefix/)|Easy|
 |15|[3sum](https://leetcode.com/problems/3sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/3sum.py)||Medium|
-|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|||Medium|
+|16|[3sum-closest](https://leetcode.com/problems/3sum-closest)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/3sum-closest.py)||Medium|
 |17|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/letter-combinations-of-a-phone-number].py)|[:memo:](https://leetcode.com/articles/letter-combinations-of-a-phone-number/)|Medium|
-|18|[4sum](https://leetcode.com/problems/4sum)|||Medium|
+|18|[4sum](https://leetcode.com/problems/4sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/4sum.py)||Medium|
 |19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-nth-node-from-end-of-list.py)|[:memo:](https://leetcode.com/articles/remove-nth-node-from-end-of-list/)|Medium|
-|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)||[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
+|20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-parentheses.py)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)||[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/generate-parentheses.py)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
