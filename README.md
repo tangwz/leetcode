@@ -45,9 +45,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/generate-parentheses.py)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
 |23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/swap-nodes-in-pairs.py)||Medium|
-|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
+|25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-nodes-in-k-group.py)||Hard|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-duplicates-from-sorted-array.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
-|27|[remove-element](https://leetcode.com/problems/remove-element)||[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
+|27|[remove-element](https://leetcode.com/problems/remove-element)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-element.py)|[:memo:](https://leetcode.com/articles/remove-element/)|Easy|
 |28|[implement-strstr](https://leetcode.com/problems/implement-strstr)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/implement-strstr.py)||Easy|
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|||Medium|
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
