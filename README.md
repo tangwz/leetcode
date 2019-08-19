@@ -52,10 +52,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |29|[divide-two-integers](https://leetcode.com/problems/divide-two-integers)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/divide-two-integers.py)||Medium|
 |30|[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||Hard|
 |31|[next-permutation](https://leetcode.com/problems/next-permutation)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/next-permutation.py)|[:memo:](https://leetcode.com/articles/next-permutation/)|Medium|
-|32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
+|32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-valid-parentheses.py)|[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/search-in-rotated-sorted-array.py)|[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
 |34|[find-first-and-last-position-of-element-in-sorted-array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/find-first-and-last-position-of-element-in-sorted-array.py)|[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
-|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
+|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/search-insert-position.py)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-sudoku.py)|[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/count-and-say.py)||Easy|
