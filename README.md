@@ -59,8 +59,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-sudoku.py)|[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/count-and-say.py)||Easy|
-|39|[combination-sum](https://leetcode.com/problems/combination-sum)|||Medium|
-|40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|||Medium|
+|39|[combination-sum](https://leetcode.com/problems/combination-sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/combination-sum.py)||Medium|
+|40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/combination-sum-ii.py)||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|||Medium|
