@@ -71,9 +71,9 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/rotate-image.py)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
 |49|[group-anagrams](https://leetcode.com/problems/group-anagrams)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/group-anagrams.py)|[:memo:](https://leetcode.com/articles/group-anagrams/)|Medium|
 |50|[powx-n](https://leetcode.com/problems/powx-n)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/powx-n.py)|[:memo:](https://leetcode.com/articles/powx-n/)|Medium|
-|51|[n-queens](https://leetcode.com/problems/n-queens)|||Hard|
-|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)||[:memo:](https://leetcode.com/articles/n-queens-ii/)|Hard|
-|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|||Easy|
+|51|[n-queens](https://leetcode.com/problems/n-queens)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/n-queens.py)||Hard|
+|52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/n-queens-ii.py)|[:memo:](https://leetcode.com/articles/n-queens-ii/)|Hard|
+|53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/maximum-subarray.py)||Easy|
 |54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
