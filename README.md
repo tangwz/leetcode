@@ -24,7 +24,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/two-sum.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/two-sum.py) [Go](https://github.com/tangwz/leetcode/blob/master/leetcode/go/two-sum.go)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
 |2|[add-two-numbers](https://leetcode.com/problems/add-two-numbers)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/add-two-numbers.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/add-two-numbers.py) [Go](https://github.com/tangwz/leetcode/blob/master/leetcode/go/add-two-numbers.go)|[:memo:](https://leetcode.com/articles/add-two-numbers/)|Medium|
 |3|[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/longest-substring-without-repeating-characters.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-substring-without-repeating-characters.py)|[:memo:](https://leetcode.com/articles/longest-substring-without-repeating-characters/)|Medium|
-|4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/median-of-two-sorted-arrays.py)||Hard|
+|4|[median-of-two-sorted-arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/median-of-two-sorted-arrays.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/median-of-two-sorted-arrays.py)||Hard|
 |5|[longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/longest-palindromic-substring.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-palindromic-substring.py)|[:memo:](https://leetcode.com/articles/longest-palindromic-substring/)|Medium|
 |6|[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/zigzag-conversion.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/zig-zag-conversion.py)||Easy|
 |7|[reverse-integer](https://leetcode.com/problems/reverse-integer)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/reverse-integer.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-integer.py)||Easy|
@@ -74,17 +74,17 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |51|[n-queens](https://leetcode.com/problems/n-queens)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/n-queens.py)||Hard|
 |52|[n-queens-ii](https://leetcode.com/problems/n-queens-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/n-queens-ii.py)|[:memo:](https://leetcode.com/articles/n-queens-ii/)|Hard|
 |53|[maximum-subarray](https://leetcode.com/problems/maximum-subarray)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/maximum-subarray.py)||Easy|
-|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
+|54|[spiral-matrix](https://leetcode.com/problems/spiral-matrix)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/spiral-matrix.py)||[:memo:](https://leetcode.com/articles/spiral-matrix/)|Medium|
 |55|[jump-game](https://leetcode.com/problems/jump-game)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/jump-game.py)|[:memo:](https://leetcode.com/articles/jump-game/)|Medium|
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
-|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|||Easy|
+|58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/length-of-last-word.py)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/unique-paths.py)||Medium|
 |63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
-|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
+|64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/minimum-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/plus-one.py)||Easy|
 |67|[add-binary](https://leetcode.com/problems/add-binary)|||Easy|
