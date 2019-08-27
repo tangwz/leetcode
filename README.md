@@ -62,7 +62,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |39|[combination-sum](https://leetcode.com/problems/combination-sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/combination-sum.py)||Medium|
 |40|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/combination-sum-ii.py)||Medium|
 |41|[first-missing-positive](https://leetcode.com/problems/first-missing-positive)||[:memo:](https://leetcode.com/articles/first-missing-positive/)|Hard|
-|42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)||[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
+|42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/trapping-rain-water.py)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/multiply-strings.py)||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
 |45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
@@ -166,7 +166,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
-|146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Hard|
+|146|[lru-cache](https://leetcode.com/problems/lru-cache)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/lru-cache.py)|[:memo:](https://leetcode.com/articles/lru-cache/)|Hard|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
 |149|[max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line)||[:memo:](https://leetcode.com/articles/max-points-on-a-line/)|Hard|
