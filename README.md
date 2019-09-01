@@ -97,7 +97,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/sort-colors.py)||Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)||[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
-|77|[combinations](https://leetcode.com/problems/combinations)||[:memo:](https://leetcode.com/articles/combinations/)|Medium|
+|77|[combinations](https://leetcode.com/problems/combinations)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/combinations.py)|[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/subsets.py)||Medium|
 |79|[word-search](https://leetcode.com/problems/word-search)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/word-search.py)||Medium|
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
