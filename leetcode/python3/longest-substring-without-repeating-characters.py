@@ -22,4 +22,25 @@ class Solution:
             used[c] = i
         return maxlen
 
+        """
+        d = collections.defaultdict(int)
+        begin = end = ans = 0
+        counter = 0
+        while end < len(s):
+            c = s[end]
+            d[c] += 1
+            if d[c] > 1:
+                counter += 1
+            end += 1
+
+            while counter > 0:
+                tmp = s[begin]
+                if d[tmp] > 1:
+                    counter -= 1
+                d[tmp] -= 1
+                begin += 1
+            ans = max(ans, end-begin)
+        return ans
+        """
+
 
