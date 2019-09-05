@@ -1,19 +1,10 @@
 #
-# @lc app=leetcode id=84 lang=python3
+# @lc app=leetcode id=85 lang=python3
 #
-# [84] Largest Rectangle in Histogram
+# [85] Maximal Rectangle
 #
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        # # O(N^2) TLE
-        # ans = 0
-        # n = len(heights)
-        # for i in range(n):
-        #     min_height = float('inf')
-        #     for j in range(i, n):
-        #         min_height = min(heights[j], min_height)
-        #         ans = max(ans, min_height*(j-i+1))
-        # return ans
         stack = [-1]
         ans = 0
         for i in range(len(heights)):
@@ -23,4 +14,16 @@ class Solution:
         while stack[-1] != -1:
             ans = max(ans, heights[stack.pop()] * (len(heights)-stack[-1]-1))
         return ans
+    
+    def maximalRectangle(self, matrix: List[List[str]]) -> int:
+        if not matrix:
+            return 0
+        ans = 0
+        dp = [0] * len(matrix[0])
+        for i in range(len(matrix)):
+            for j in range(len(matrix[0])):
+                dp[j] = dp[j] + 1 if matrix[i][j] == '1' else 0
+            ans = max(ans, self.largestRectangleArea(dp))
+        return ans
+        
 
