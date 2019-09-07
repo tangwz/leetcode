@@ -134,7 +134,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)||[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||Medium|
-|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
+|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/flatten-binary-tree-to-linked-list.py)||Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/populating-next-right-pointers-in-each-node.py)||Medium|
 |117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
@@ -159,10 +159,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |136|[single-number](https://leetcode.com/problems/single-number)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/single-number.py)|[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
-|139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
+|139|[word-break](https://leetcode.com/problems/word-break)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/word-break.py)|[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/linked-list-cycle.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
-|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[python](https://github.com/tangwz/leetcode/blob/master/leetcode/python/linked-list-cycle.py) [python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/linked-list-cycle.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/linked-list-cycle-ii.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
 |145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
