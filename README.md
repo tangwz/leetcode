@@ -80,10 +80,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/length-of-last-word.py)||Easy|
 |59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
-|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|||Medium|
-|61|[rotate-list](https://leetcode.com/problems/rotate-list)||[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
+|60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/permutation-sequence.py)||Medium|
+|61|[rotate-list](https://leetcode.com/problems/rotate-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/rotate-list.py)|[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/unique-paths.py)||Medium|
-|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)||[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
+|63|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/unique-paths-ii.py)|[:memo:](https://leetcode.com/articles/unique-paths-ii/)|Medium|
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/minimum-path-sum.py)|[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/plus-one.py)||Easy|
