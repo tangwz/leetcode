@@ -79,7 +79,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |56|[merge-intervals](https://leetcode.com/problems/merge-intervals)||[:memo:](https://leetcode.com/articles/merge-intervals/)|Medium|
 |57|[insert-interval](https://leetcode.com/problems/insert-interval)|||Hard|
 |58|[length-of-last-word](https://leetcode.com/problems/length-of-last-word)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/length-of-last-word.py)||Easy|
-|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|||Medium|
+|59|[spiral-matrix-ii](https://leetcode.com/problems/spiral-matrix-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/spiral-matrix-ii.py)||Medium|
 |60|[permutation-sequence](https://leetcode.com/problems/permutation-sequence)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/permutation-sequence.py)||Medium|
 |61|[rotate-list](https://leetcode.com/problems/rotate-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/rotate-list.py)|[:memo:](https://leetcode.com/articles/rotate-list/)|Medium|
 |62|[unique-paths](https://leetcode.com/problems/unique-paths)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/unique-paths.py)||Medium|
@@ -91,10 +91,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/sqrtx.py)||Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
-|71|[simplify-path](https://leetcode.com/problems/simplify-path)|||Medium|
+|71|[simplify-path](https://leetcode.com/problems/simplify-path)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/simplify-path.py)||Medium|
 |72|[edit-distance](https://leetcode.com/problems/edit-distance)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/edit-distance.py)|[:memo:](https://leetcode.com/articles/edit-distance/)|Hard|
 |73|[set-matrix-zeroes](https://leetcode.com/problems/set-matrix-zeroes)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/set-matrix-zeroes.py)|[:memo:](https://leetcode.com/articles/set-matrix-zeroes/)|Medium|
-|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|||Medium|
+|74|[search-a-2d-matrix](https://leetcode.com/problems/search-a-2d-matrix)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/search-a-2d-matrix.py)||Medium|
 |75|[sort-colors](https://leetcode.com/problems/sort-colors)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/sort-colors.py)||Medium|
 |76|[minimum-window-substring](https://leetcode.com/problems/minimum-window-substring)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/minimum-window-substring.py)|[:memo:](https://leetcode.com/articles/minimum-window-substring/)|Hard|
 |77|[combinations](https://leetcode.com/problems/combinations)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/combinations.py)|[:memo:](https://leetcode.com/articles/combinations/)|Medium|
@@ -103,7 +103,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|||Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|||Medium|
-|83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)||[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
+|83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-duplicates-from-sorted-list.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
 |84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/largest-rectangle-in-histogram.py)|[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
 |85|[maximal-rectangle](https://leetcode.com/problems/maximal-rectangle)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/maximal-rectangle.py)|[:memo:](https://leetcode.com/articles/maximal-rectangle/)|Hard|
 |86|[partition-list](https://leetcode.com/problems/partition-list)||[:memo:](https://leetcode.com/articles/partition-list/)|Medium|
