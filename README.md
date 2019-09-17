@@ -101,7 +101,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |78|[subsets](https://leetcode.com/problems/subsets)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/subsets.py)||Medium|
 |79|[word-search](https://leetcode.com/problems/word-search)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/word-search.py)||Medium|
 |80|[remove-duplicates-from-sorted-array-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
-|81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|||Medium|
+|81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/search-in-rotated-sorted-array-ii.py)||Medium|
 |82|[remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-duplicates-from-sorted-list-ii.py)||Medium|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/remove-duplicates-from-sorted-list.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
 |84|[largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/largest-rectangle-in-histogram.py)|[:memo:](https://leetcode.com/articles/largest-rectangle-in-histogram/)|Hard|
