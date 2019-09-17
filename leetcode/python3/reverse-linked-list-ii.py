@@ -11,5 +11,21 @@
 
 class Solution:
     def reverseBetween(self, head: ListNode, m: int, n: int) -> ListNode:
+        dummy = ListNode(0)
+        dummy.next = head
+        cur, prev = head, dummy
+        for _ in range(m-1):
+            prev = prev.next
+            cur = cur.next
         
+        for _ in range(n-m):
+            tmp = cur.next
+            cur.next = tmp.next
+            tmp.next = prev.next
+            prev.next = tmp
+
+        return dummy.next
+
+
+
 
