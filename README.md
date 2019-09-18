@@ -65,7 +65,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |42|[trapping-rain-water](https://leetcode.com/problems/trapping-rain-water)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/trapping-rain-water.py)|[:memo:](https://leetcode.com/articles/trapping-rain-water/)|Hard|
 |43|[multiply-strings](https://leetcode.com/problems/multiply-strings)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/multiply-strings.py)||Medium|
 |44|[wildcard-matching](https://leetcode.com/problems/wildcard-matching)|||Hard|
-|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|||Hard|
+|45|[jump-game-ii](https://leetcode.com/problems/jump-game-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/jump-game-ii.py)||Hard|
 |46|[permutations](https://leetcode.com/problems/permutations)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/permutations.py)|[:memo:](https://leetcode.com/articles/permutations/)|Medium|
 |47|[permutations-ii](https://leetcode.com/problems/permutations-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/permutations-ii.py)||Medium|
 |48|[rotate-image](https://leetcode.com/problems/rotate-image)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/rotate-image.py)|[:memo:](https://leetcode.com/articles/rotate-image/)|Medium|
@@ -113,7 +113,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/subsets-ii.py)||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/reverse-linked-list-ii.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
-|93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
+|93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/restore-ip-addresses.py)|[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
 |94|[binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/binary-tree-inorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-inorder-traversal/)|Medium|
 |95|[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii)||[:memo:](https://leetcode.com/articles/unique-binary-search-trees-ii/)|Medium|
 |96|[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/unique-binary-search-trees.py)|[:memo:](https://leetcode.com/articles/unique-binary-search-trees/)|Medium|
