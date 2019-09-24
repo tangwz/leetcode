@@ -14,7 +14,7 @@ class Solution:
         # return dp[n]
 
         # Catalan number:
-        # https://baike.baidu.com/item/catalan/7605685?fr=aladdin
+        # https://baike.baidu.com/item/catalan/7605685
         C = 1
         for i in range(n):
             C = C*2*(2*i+1)/(i+2)
