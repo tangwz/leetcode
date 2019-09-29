@@ -134,20 +134,20 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/minimum-depth-of-binary-tree.cpp)|[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/path-sum.cpp)|[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/path-sum-ii.cpp)||Medium|
-|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/flatten-binary-tree-to-linked-list.py)||Medium|
-|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
-|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/populating-next-right-pointers-in-each-node.py)||Medium|
-|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||Medium|
-|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)||[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
-|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|||Easy|
-|120|[triangle](https://leetcode.com/problems/triangle)|||Medium|
+|114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/flatten-binary-tree-to-linked-list.py) [cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/flatten-binary-tree-to-linked-list.cpp)||Medium|
+|115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/distinct-subsequences.cpp)||Hard|
+|116|[populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/populating-next-right-pointers-in-each-node.py) [cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/populating-next-right-pointers-in-each-node.cpp)||Medium|
+|117|[populating-next-right-pointers-in-each-node-ii](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/populating-next-right-pointers-in-each-node-ii.cpp)||Medium|
+|118|[pascals-triangle](https://leetcode.com/problems/pascals-triangle)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/pascals-triangle.cpp)|[:memo:](https://leetcode.com/articles/pascals-triangle/)|Easy|
+|119|[pascals-triangle-ii](https://leetcode.com/problems/pascals-triangle-ii)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/pascals-triangle-ii.cpp)||Easy|
+|120|[triangle](https://leetcode.com/problems/triangle)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/triangle.cpp)||Medium|
 |121|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock/)|Easy|
 |122|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock-ii.py)|[:memo:](https://leetcode.com/articles/best-time-to-buy-and-sell-stock-ii/)|Easy|
 |123|[best-time-to-buy-and-sell-stock-iii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/best-time-to-buy-and-sell-stock-iii.py)||Hard|
 |124|[binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)||[:memo:](https://leetcode.com/articles/binary-tree-maximum-path-sum/)|Hard|
 |125|[valid-palindrome](https://leetcode.com/problems/valid-palindrome)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/valid-palindrome.py)||Easy|
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
-|127|[word-ladder](https://leetcode.com/problems/word-ladder)||[:memo:](https://leetcode.com/articles/word-ladder/)|Medium|
+|127|[word-ladder](https://leetcode.com/problems/word-ladder)|[cpp](https://github.com/tangwz/leetcode/blob/master/leetcode/cpp/word-ladder.cpp)|[:memo:](https://leetcode.com/articles/word-ladder/)|Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)|[python3](https://github.com/tangwz/leetcode/blob/master/leetcode/python3/longest-consecutive-sequence.py)|[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
 |129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|||Medium|
 |130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|||Medium|
